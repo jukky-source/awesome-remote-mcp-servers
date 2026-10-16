@@ -137,6 +137,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Todoist | Productivity | `https://ai.todoist.net/mcp` | OAuth2.1 | [Doist](https://todoist.com) |
 | Turkish Airlines | Airlines | `https://mcp.turkishtechlab.com/mcp` | OAuth2.1 | [Turkish Technology](https://mcp.turkishtechlab.com/) |
 | TweetSave | Social Media | `https://mcp.tweetsave.org/sse` | Open | [TweetSave](https://tweetsave.org) |
+| Wealth Agent | Utilities | `https://wealth-agent.wealthagent-app.workers.dev/api/mcp` | Free tier / x402 (USDC) | [jukky-source](https://github.com/jukky-source) |
 | xbird | Social Media | `https://xbirdapi.up.railway.app/mcp` | API Key | [xbird](https://github.com/checkra1neth/xbird-skill) |
 | Vercel | Software Development | `https://mcp.vercel.com/` | OAuth2.1 | [Vercel](https://vercel.com) |
 | VibeMarketing | Social Media | `https://vibemarketing.ninja/mcp` | OAuth2.1 | [VibeMarketing](https://vibemarketing.ninja) |
@@ -188,7 +189,6 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
 
-- [wealth-agent](https://github.com/jukky-source/wealth-agent) - Pay-per-call MCP tools over x402 (research brief, CSV/JSON cleanup, code review, URL metadata, regex, diff) plus a free per-IP tier. Streamable HTTP, no account or API key. [Live](https://wealth-agent.wealthagent-app.workers.dev)
 # Remote MCP Installation Guide
 
 > Kindy powered by [Install This MCP](https://github.com/janwilmake/install-this-mcp)
