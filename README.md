@@ -188,6 +188,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | SubwayInfo NYC | Other | `https://subwayinfo.nyc/mcp` | Open | [SubwayInfo NYC](https://subwayinfo.nyc) |
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
 
+- [wealth-agent](https://github.com/jukky-source/wealth-agent) - Pay-per-call MCP tools over x402 (research brief, CSV/JSON cleanup, code review, URL metadata, regex, diff) plus a free per-IP tier. Streamable HTTP, no account or API key. [Live](https://wealth-agent.wealthagent-app.workers.dev)
 # Remote MCP Installation Guide
 
 > Kindy powered by [Install This MCP](https://github.com/janwilmake/install-this-mcp)
